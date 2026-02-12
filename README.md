@@ -6,4 +6,4 @@
 📍 Recife - Brazil
 
 
-<img width="180" height="180" alt="s-ctfl" src="https://github.com/user-attachments/assets/7efece7e-5ace-4377-bc4c-343037991b0b" />
+<img width="180" height="180" alt="s-ctfl" border-radius="50" src="https://github.com/user-attachments/assets/7efece7e-5ace-4377-bc4c-343037991b0b" />
