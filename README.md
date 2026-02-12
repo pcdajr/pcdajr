@@ -1,3 +1,6 @@
-## 🎓 Certifications
+## 🧪 QA Engineer | Software Tester
 
-https://bcr.bstqb.org.br/validate/26-CTFL-15182-BR
+🎓 ISTQB CTFL Certified  
+🔍 Manual Testing | Test Design | Bug Reporting  
+📚 Studying Automation  
+📍 Recife - Brazil
