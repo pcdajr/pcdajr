@@ -1,3 +1,3 @@
 ## 🎓 Certifications
 
-![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL-blue)
+https://bcr.bstqb.org.br/validate/26-CTFL-15182-BR
