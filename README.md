@@ -1,6 +1,5 @@
 ## 🧪 QA Engineer | Software Tester
 </br>
-</br>
 
 ☑️ Strategy | Test Manual | Cypress | E2e | Jira | Scrum </br>
 🎓 ISTQB CTFL Certified  
