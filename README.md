@@ -1,7 +1,7 @@
 ## 🧪 QA Engineer | Software Tester
 </br>
 
-☑️ Strategy | Test Manual | Cypress | WEB UI | Jira | Scrum </br>
+☑️ Strategy | Test Manual | Cypress | Web | Jira | Scrum </br>
 🎓 Análise e Desenvolvimento de Sistemas - GRAN </br>
 🎓 Computação Gráfica - IFPE </br>
 📍  Recife - Brazil </br>
